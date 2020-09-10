@@ -95,5 +95,4 @@ vega-datasets==0.8.0
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
-xattr==0.6.4
 zipp==1.2.0
