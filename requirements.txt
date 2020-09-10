@@ -87,6 +87,7 @@ tqdm==4.48.0
 traitlets==4.3.3
 typing==3.7.4.3
 vega-datasets==0.8.0
+voila==0.1.21
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
