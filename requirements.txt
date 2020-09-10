@@ -1,5 +1,5 @@
 appdirs==1.4.4
-appnope @ file:///opt/concourse/worker/volumes/live/0291c9e1-4b15-459f-623e-2770f55be269/volume/appnope_1594338395037/work
+appnope @  /Users/NESA4/opt/miniconda3/envs/tensorflow/lib/python3.7/site-packages/appnope
 argon2-cffi @ file:///opt/concourse/worker/volumes/live/59af29ac-4890-416e-7ab7-794f8d6f7ecd/volume/argon2-cffi_1596828548321/work
 async-generator==1.10
 attrs==19.3.0
