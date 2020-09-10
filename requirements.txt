@@ -1,11 +1,25 @@
 appdirs==1.4.4
-appnope @ file:///opt/concourse/worker/volumes/live/0291c9e1-4b15-459f-623e-2770f55be269/volume/appnope_1594338395037/work
+appnope @  file:///Users/NESA4/opt/miniconda3/envs/tensorflow/lib/python3.7/site-packages/appnope
+
+
+
 argon2-cffi @ file:///opt/concourse/worker/volumes/live/59af29ac-4890-416e-7ab7-794f8d6f7ecd/volume/argon2-cffi_1596828548321/work
+
+
+#/Users/NESA4/opt/miniconda3/pkgs/argon2-cffi-20.1.0-py37haf1e3a3_1.conda
+
+
 async-generator==1.10
 attrs==19.3.0
 backcall==0.2.0
 bleach==3.1.5
 bqplot @ file:///home/conda/feedstock_root/build_artifacts/bqplot_1598028488608/work
+
+
+#/Users/NESA4/opt/miniconda3/lib/python3.8/site-packages/bqplot
+
+
+
 Brotli==1.0.9
 certifi==2020.6.20
 cffi==1.14.0
@@ -14,6 +28,12 @@ click==7.1.2
 click-plugins==1.1.1
 cligj==0.5.0
 cloudpickle @ file:///home/conda/feedstock_root/build_artifacts/cloudpickle_1593623337153/work
+
+#/Users/NESA4/opt/miniconda3/pkgs/cloudpickle-1.5.0-py_0/site-packages/cloudpickle/cloudpickle.py
+
+
+
+
 cmdstanpy==0.4.0
 conda==4.8.4
 conda-package-handling==1.7.0+0.g7c4a471.dirty
@@ -29,6 +49,13 @@ dash-html-components==1.1.1
 dash-renderer==1.8.0
 dash-table==4.10.1
 dask @ file:///home/conda/feedstock_root/build_artifacts/dask-core_1598124697190/work
+
+
+
+#/Users/NESA4/opt/anaconda3/pkgs/dask-core-2.5.2-py_0/site-packages/dask
+
+
+
 decorator==4.4.2
 defusedxml==0.6.0
 descartes==1.1.0
@@ -48,6 +75,12 @@ geopandas==0.6.1
 holidays==0.10.3
 idna==2.9
 imagecodecs-lite @ file:///Users/runner/miniforge3/conda-bld/imagecodecs-lite_1591047267405/work
+
+
+
+
+
+
 imageio @ file:///home/conda/feedstock_root/build_artifacts/imageio_1594044661732/work
 importlib-metadata @ file:///opt/concourse/worker/volumes/live/290b74d5-e5f3-47ff-7257-17b3c9ccecab/volume/importlib-metadata_1593446478206/work
 ipydatawidgets @ file:///home/conda/feedstock_root/build_artifacts/ipydatawidgets_1592927540203/work
