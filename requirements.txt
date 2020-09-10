@@ -23,7 +23,7 @@ entrypoints==0.3
 enum34==1.1.6
 Fiona==1.8.13.post1
 
-future==0.17.1
+
 futures==3.3.0
 geopandas==0.6.3
 importlib-metadata==1.7.0
