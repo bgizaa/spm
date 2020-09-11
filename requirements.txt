@@ -37,6 +37,9 @@ jupyterlab==0.33.12
 jupyterlab-launcher==0.11.2
 macholib==1.5.1
 MarkupSafe==1.1.1
+
+
+
 mistune==0.8.4
 modulegraph==0.10.4
 munch==2.5.0
@@ -81,5 +84,7 @@ vega-datasets==0.8.0
 voila==0.1.21
 wcwidth==0.2.5
 webencodings==0.5.1
+
 widgetsnbextension==3.5.1
+
 zipp==1.2.0
